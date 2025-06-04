@@ -1,8 +1,8 @@
 
 
 
-/* Name : Gogole Mukherjee 
-Roll Number = 002220603007
+/* Name : 
+Roll Number = 
 Problem Statement : Solve Ut=Uxx , 0<x<1,t>0,
 Where u(0,t)=u(1,t)=0,t>0 and u(x,0)=sin(pi*x), by taking h=1/3 , k=1/36 . */
 

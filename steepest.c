@@ -1,6 +1,6 @@
 /*
-    NAME :- ANIRBAN CHATTERJEE
-    ROLL NO :- 002220603012
+    NAME :- 
+    ROLL NO :- 
     
 PROBLEM :-  Use steepest decent method with   x^0 = (0,0,0)^T to find the approximation solution of non linear system 
             3x_1-cos(x_1 x_2) -0.5=0

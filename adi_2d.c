@@ -1,6 +1,6 @@
 
-/* Name : Gogole Mukherjee
-Roll no : 002220603007
+/* Name : 
+Roll no : 
 Problem Statement : write a C programme  to find the numerical solution of the mixed boundary value problem 
 U_xx+U_yy = 4x-2y , in the square whose vertices are at the points (0,0), (1,0), (0,1),(1,1) , with 
 the boundary conditions ,

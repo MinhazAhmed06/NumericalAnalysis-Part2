@@ -1,6 +1,6 @@
 
-/* name : Gogole Mukherjee 
-roll : 002220603007
+/* name : 
+roll : 
 problem statement : write a C programme to solve the following boundary value problem
 U_tt = U_xx ,0<x,4 , t>0
 subject to the following initial and boundary conditions

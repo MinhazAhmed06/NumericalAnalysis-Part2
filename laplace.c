@@ -1,5 +1,5 @@
-/* name : Gogole Mukherjee
-Roll : 002220603007
+/* name : 
+Roll : 
 problem statement : write a c programme to solve the following p.d.e. using finite difference scheme ,
 U_xx+U_yy =0, 0<x,y<1,
 u(x,0)=0,u(0,y)=0,u(x,1)10x,u(1,y)=10y

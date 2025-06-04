@@ -2,8 +2,8 @@
 
 
 /*
-Name : Gogole Mukherjee
-Roll number : 002220603007
+Name : 
+Roll number : 
  problem statement : solve f(x) -2 .[integration from 0 to x.. (cos (x-t)).f(t)dt] = e^x , 
 by taking f(0)=1 , h=0.1 , at x = 0.1,...,1.0 .*/
 

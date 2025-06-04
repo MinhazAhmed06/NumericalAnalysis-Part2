@@ -1,7 +1,7 @@
 /*
 
-Name : Gogole Mukherjee
-Roll no . 002220603007
+Name : 
+Roll no . 
  Problem Statement : solve the given non linear equation using Newton's Method :
 x1^3+ x1^2x2 - x1x3 + 6 = 0
 e^(x1) + e^(x2) - x3 = 0

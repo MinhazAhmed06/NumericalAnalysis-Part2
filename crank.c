@@ -1,8 +1,6 @@
-/*Name-Ashik Akbar Biswas
-  roll-34
-  Prob-Solve the PDE by Crank-Nicolson method 
-           u_t=u_xx,0<x<1,t>0,
-           where u(0,t)=u(i,t)=0,t>0 and u(x,0)=2x
+/*Name-
+  roll-
+  
 */
 
 

@@ -1,6 +1,6 @@
 
-/* name : Gogole Mukherjee 
-Roll . 002220603007
+/* name : 
+Roll . 
 problem statement : write a c programme to solve the following p.d.e. 
 U_xx+U_yy=1, [x]<1,[y]<1
 with u=0 on [x]=1 ,[y]=1 , using a suitable finite difference schame and find u(0,0) by taking 

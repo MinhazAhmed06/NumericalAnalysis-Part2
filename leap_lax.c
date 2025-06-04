@@ -1,7 +1,7 @@
 
 /*
- Name : Gogole Mukherjee
-Roll Number : 002220603007
+ Name : 
+Roll Number : 
 Problem Statement : write a C programme to find the numerical solution of the initial value problem 
 U_x+U_t =0,-2<= x<= 5, t>0
 

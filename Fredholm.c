@@ -1,6 +1,6 @@
 
-/* name : Gogole Mukherjee 
-roll: 002220603007
+/* name :  
+roll: 
 problem statement : solve the integral equation by quadrature formula method 
 f(x)- integratiion (0 to 1) (x+1) dt =(3/2)x-5/6*/
 
